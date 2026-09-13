@@ -1,5 +1,5 @@
 # 🟦 Indeed — Data & Insights Roles
-*Last updated: 2026-09-13 01:25 UTC*
+*Last updated: 2026-09-13 06:46 UTC*
 
 **0 new role(s)** since last run · 2 total in last 24h
 
