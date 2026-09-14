@@ -1,35 +1,14 @@
 # 🟦 Indeed — Data & Insights Roles
-*Last updated: 2026-09-14 20:01 UTC*
+*Last updated: 2026-09-14 23:29 UTC*
 
-**6 new role(s)** since last run · 6 total in last 24h
+**2 new role(s)** since last run · 8 total in last 24h
 
-### [Data Analyst](https://se.indeed.com/viewjob?jk=4493a42847204dcd) — Avenga
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-14
-
-### [Data Analyst](https://se.indeed.com/viewjob?jk=1eac3af4176b8e57) — ESSIQ
-- 📍 **Location:** Mölndal, O, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-14
-
-### [Data Analyst - Vitamin Well Group](https://se.indeed.com/viewjob?jk=98ee3953c57ceb0c) — Vitamin Well
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-11
-
-### [Business Analyst – Graduate 2027](https://se.indeed.com/viewjob?jk=3d302c652c989085) — Anyfin
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-14
-
-### [Business Analyst](https://se.indeed.com/viewjob?jk=78d6ef13c2ee4461) — Coop
-- 📍 **Location:** Solna, AB, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-14
-
-### [Business Analyst](https://se.indeed.com/viewjob?jk=27c3432fe61daceb) — NXT Interim Stockholm AB
-- 📍 **Location:** Solna, AB, SE
+### [Clinical Research Associate II/ Sr CRA I, Denmark - Sponsor-dedicated](https://dk.indeed.com/viewjob?jk=4eee4c0e638a869d) — サイネオス・ヘルス
+- 📍 **Location:** arbejde hjemmefra, DK
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-14
+
+### [Clinical Research Associate II/ Sr CRA I, Denmark - Sponsor-dedicated](https://dk.indeed.com/viewjob?jk=e38e7c3b541c696a) — サイネオス・ヘルス
+- 📍 **Location:** arbejde hjemmefra, DK
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-14
