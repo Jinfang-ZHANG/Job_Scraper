@@ -1,14 +1,9 @@
 # 🟦 Indeed — Data & Insights Roles
-*Last updated: 2026-09-14 23:29 UTC*
+*Last updated: 2026-09-15 01:54 UTC*
 
-**2 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 9 total in last 24h
 
-### [Clinical Research Associate II/ Sr CRA I, Denmark - Sponsor-dedicated](https://dk.indeed.com/viewjob?jk=4eee4c0e638a869d) — サイネオス・ヘルス
-- 📍 **Location:** arbejde hjemmefra, DK
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-14
-
-### [Clinical Research Associate II/ Sr CRA I, Denmark - Sponsor-dedicated](https://dk.indeed.com/viewjob?jk=e38e7c3b541c696a) — サイネオス・ヘルス
-- 📍 **Location:** arbejde hjemmefra, DK
+### [Roblox Game Data Analyst](https://se.indeed.com/viewjob?jk=a2c350c5336a8182) — Cinnamon Software
+- 📍 **Location:** SE
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-14
