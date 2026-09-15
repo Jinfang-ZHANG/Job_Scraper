@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-15 01:54 UTC",
+  "scraped_at": "2026-09-15 08:02 UTC",
   "total": 9,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cinnamon Software",
@@ -166,24 +166,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Cinnamon Software",
-      "title": "Roblox Game Data Analyst",
-      "location": "SE",
-      "url": "https://se.indeed.com/viewjob?jk=a2c350c5336a8182",
-      "direct_url": "https://cinnamonsoftware.teamtailor.com/jobs/8377392-roblox-game-data-analyst",
-      "company_url": "https://se.indeed.com/cmp/Cinnamon-Software",
-      "date_posted": "2026-09-14",
-      "description": "**About Cinnamon**\n==================\n\n\nCinnamon is the most ambitious independent Roblox studio in the world.\n\n\nOur games have generated billions of visits. LifeTogether has over 3\\.7 billion visits. BlockSpin has over 1\\.1 billion. Bayview has over 600 million.\n\n\nBuilt from scratch, owned outright and growing every single day.\n\n\nNo investors. No shortcuts. Just great games.\n\n\nWe're looking for an exceptional Roblox Game Data Analyst who can help us understand exactly how players behave across our live games and take ownership of the analytics platform we use to measure them.\n\n\nThis is a role for someone who is genuinely obsessed with numbers, player behaviour and game performance.\n\n**The Role**\n============\n\n\nYour job is to know our games through data.\n\n\nRetention. Engagement. Session length. CCU. Progression. Monetisation. Churn. Funnels. Cohorts. Feature performance.\n\n\nYou'll monitor our key metrics, investigate changes and build a detailed understanding of how millions of players interact with our games.\n\n\nIf D1 retention changes, we want to know.\n\n\nIf session length drops after an update, we want to know.\n\n\nIf players consistently leave at a particular point in progression, we want to know.\n\n\nIf one group of players behaves completely differently from another, we want to understand why.\n\n\nYou will also take ownership of our internal game analytics platform.\n\n\nWe want one place where the studio can understand the health and performance of our games without digging through multiple systems or manually pulling numbers together.\n\n\nYou'll help decide what should be tracked, how it should be presented and how the platform should evolve as our games grow.\n\n\nInitially, this platform will be built for Cinnamon.\n\n\nIf it proves successful, useful and scalable, our intention is to develop it into a public\\-facing product for other Roblox developers and studios.\n\n\nThat means this is not simply an internal reporting role.\n\n\nYou could help shape a new Roblox analytics product from the ground up using real data from games with billions of visits.\n\n**What You'll Do**\n==================\n\n* Monitor D1, D7 and D30 retention across our live games\n* Track DAU, MAU, CCU, session length and session frequency\n* Analyse new, returning and churned players\n* Analyse player cohorts and behavioural segments\n* Track onboarding, progression and gameplay funnels\n* Identify where players leave or disengage\n* Analyse feature usage and adoption\n* Compare player behaviour before and after updates\n* Track monetisation, conversion and payer behaviour\n* Analyse ARPDAU, ARPPU and other relevant monetisation metrics\n* Analyse game economy and progression data\n* Monitor long\\-term trends across our games\n* Identify unusual spikes, drops and changes in performance\n* Investigate why key metrics have changed\n* Compare performance across different games, updates and player cohorts\n* Build and maintain dashboards\n* Produce clear reporting on game health and performance\n* Work with large datasets\n* Identify correlations, patterns and anomalies in player behaviour\n* Help the team understand the impact of new features and updates\n* Own the development and ongoing improvement of our internal game analytics platform\n* Define which metrics and KPIs should be visible across each game\n* Build views that make complex game data easy to understand\n* Create a reliable single source of truth for game performance across the studio\n* Work with developers to ensure the correct events and data are being captured\n* Identify gaps in our existing analytics and define what additional tracking is required\n* Maintain consistent metric definitions across the studio\n* Improve how game data is collected, structured and presented over time\n* Help shape the analytics platform with the potential for it to become a public product for the wider Roblox development ecosystem\n* Become the person who knows our game numbers better than anyone else\n\n**What We're Looking For**\n==========================\n\n* Strong experience working with game, product or user analytics\n* Strong understanding of retention metrics including D1, D7 and D30\n* Strong understanding of DAU, MAU, CCU, churn and engagement\n* Experience analysing player or user behaviour\n* Strong understanding of cohort analysis, segmentation and funnels\n* Experience building dashboards or analytics platforms\n* Experience defining and maintaining product or game KPIs\n* Experience working with large datasets\n* Strong statistical and analytical thinking\n* Ability to spot patterns and anomalies others may miss\n* Strong attention to detail\n* Ability to investigate ambiguous questions using data\n* Ability to communicate findings clearly\n* Ability to turn complicated data into simple and useful visualisations\n* Ability to work independently and take ownership\n\n\nExperience working with Roblox analytics is highly desirable.\n\n\nExperience working on successful live games, free\\-to\\-play games or large consumer products is also highly desirable.\n\n\nExperience with SQL, BI tools, analytics platforms, databases or equivalent data tooling is valuable.\n\n\nSome technical understanding of data pipelines, event tracking or analytics infrastructure would be particularly useful.\n\n**Own the Numbers**\n===================\n\n\nWe don't want someone who looks at a dashboard once a week.\n\n\nWe want someone who owns the numbers.\n\n\nSomeone who notices when retention changes.\n\n\nSomeone who sees an unusual movement in a graph and immediately wants to understand why.\n\n\nSomeone who can tell us whether an update actually changed player behaviour.\n\n\nSomeone who can separate a meaningful trend from random noise.\n\n\nSomeone who thinks about whether we're even measuring the right things in the first place.\n\n\nA percentage moving up or down is only the beginning.\n\n\nWe want to understand when it changed, where it changed, which players were affected and what happened around it.\n\n**Own the Platform**\n====================\n\n\nThis role will also own how game ",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
