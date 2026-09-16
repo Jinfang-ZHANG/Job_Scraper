@@ -1,6 +1,9 @@
 # 🟦 Indeed — Data & Insights Roles
-*Last updated: 2026-09-16 06:46 UTC*
+*Last updated: 2026-09-16 19:05 UTC*
 
-**0 new role(s)** since last run · 5 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Business Analyst ERP – Supply Chain & Manufacturing](https://se.indeed.com/viewjob?jk=77bf43ee28d76c60) — Centio
+- 📍 **Location:** Linköping, E, SE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-16
