@@ -1,14 +1,9 @@
 # 🟦 Indeed — Data & Insights Roles
-*Last updated: 2026-09-21 23:38 UTC*
+*Last updated: 2026-09-22 01:53 UTC*
 
-**2 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 9 total in last 24h
 
-### [Business Analyst till digital utveckling inom njursjukvård](https://se.indeed.com/viewjob?jk=cecdabe1dd26f9a5) — Diaverum
-- 📍 **Location:** Malmö, M, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-21
-
-### [Business Analyst](https://se.indeed.com/viewjob?jk=e203e381ca728652) — Lantmännen
-- 📍 **Location:** Malmö, M, SE
-- **Work mode:** On-site
+### [Sales Data Analyst | SQL, BigQuery & Dashboards](https://se.indeed.com/viewjob?jk=a4e4664294d06aeb) — DERMADREAM
+- 📍 **Location:** SE
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-09-21
