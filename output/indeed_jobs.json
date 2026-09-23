@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-23 19:21 UTC",
+  "scraped_at": "2026-09-23 22:28 UTC",
   "total": 4,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Saab",
@@ -76,78 +76,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Saab",
-      "title": "Junior Data Analyst ﻿",
-      "location": "Stockholm, AB, SE",
-      "url": "https://se.indeed.com/viewjob?jk=facef05a14951cf4",
-      "direct_url": "https://www.saab.com/career/job-opportunities/junior-data-analyst",
-      "company_url": "https://se.indeed.com/cmp/Saab-6",
-      "date_posted": "2026-09-23",
-      "description": "*Vill du påverka och göra skillnad på riktigt? Här bidrar du till att skapa trygghet för människor och samhällen. Det du gör spelar roll.*\n\n### **Din roll**\n\n\nVill du ta nästa steg inom data och analys i en verksamhet där dina insikter bidrar till verklig påverkan? Inom BI \\& Digital Tools, en del av Operational Excellence på Saab Fighter Core Capability, arbetar vi med att utveckla och implementera digitala lösningar inom bland annat Business Intelligence, automation och AI.\n\n  \n\nNu söker vi en Junior Data Analyst som vill vara med och omvandla data till värdefulla insikter, rapporter och beslutsunderlag för verksamheten. Du blir en del av ett engagerat team med erfarna kollegor som stöttar din utveckling inom dataanalys, datavisualisering och moderna BI\\-lösningar.\n\n  \n\nI rollen kommer du bland annat att:\n\n* Utveckla, förbättra och förvalta dashboards och applikationer i Qlik Sense.\n* Arbeta med SQL för att hämta, bearbeta och analysera data.\n* Omsätta verksamhetens behov till tydliga och användarvänliga visualiseringar.\n* Bidra till förvaltning, releaser och vidareutveckling av befintliga lösningar.\n* Dokumentera datakällor, beräkningar och arbetssätt.\n* Samarbeta med verksamheten för att skapa analyslösningar som gör skillnad i vardagen.\n\n  \n\nTeamet består av erfarna data\\- och BI\\-specialister som arbetar nära verksamheten och delar en kultur präglad av samarbete, kunskapsutbyte och ständig utveckling. Här får du möjlighet att lära dig av kollegor med djup kompetens inom datamodellering, dataarkitektur och avancerad analys.\n\n  \n\nPlaceringsort är främst Järfälla, med möjlighet att arbeta från Solna 1\\-2 dagar per vecka. Vi ser gärna att du arbetar från kontoret minst tre dagar i veckan för att främja samarbete och lärande. Resor förekommer endast i begränsad omfattning.\n\n### **Din profil**\n\n\nVi söker dig som är i början av din karriär och har 1\\-3 års relevant arbetslivserfarenhet inom dataanalys, business intelligence eller närliggande områden. Du har en relevant högskoleutbildning inom exempelvis dataanalys, datavetenskap, teknik, statistik, ekonomi eller motsvarande erfarenhet.\n\n  \n\nFör att lyckas i rollen ser vi att du har:\n\n* Erfarenhet av att skapa dashboards eller datavisualiseringar i exempelvis Qlik Sense, Power BI eller liknande verktyg.\n* Goda kunskaper i SQL och erfarenhet av att arbeta med strukturerad data och relationsdatabaser.\n* Grundläggande förståelse för datakvalitet, datatransformering och analytisk rapportering.\n* God förmåga att uttrycka dig på engelska i tal och skrift.\n\n  \n\nDet är meriterande om du har erfarenhet av:\n\n* ERP\\-, MES\\- eller PLM\\-system, exempelvis IFS, FactoryLogix eller Teamcenter.\n* Microsoft Fabric, Power BI, OneLake, Lakehouse eller Data Factory.\n* Hantering och bearbetning av större datamängder.\n* Informationssäkerhet, data governance eller behörighetshantering.\n\n  \n\nSom person är du nyfiken, lärandeorienterad och motiveras av att utvecklas tillsammans med andra. Du är strukturerad och noggrann i ditt arbetssätt, samtidigt som du vågar ta initiativ och identifiera förbättringsmöjligheter. Vi tror också att du är en lagspelare som trivs med att samarbeta med både tekniska och verksamhetsnära kollegor och som ser värdet i att göra data tillgänglig och användbar för andra.\n\n  \n\nBefattningen kräver att du genomgår och godkänns enligt vid var tid gällande bestämmelser för säkerhetsskydd. För befattningar där Saab har krav på säkerhetsklassinplacering kan, i förekommande fall, medföra krav på visst medborgarskap.\n\n### **Vad du blir en del av**\n\n\nUpptäck oändliga möjligheter. Anta utmaningar, skapa smarta innovationer och uppgradera dina förmågor. Det här är en plats för kluriga tänkare, modiga pionjärer och alla däremellan. Tillsammans uppnår vi det extraordinära, var och en tar med sitt unika perspektiv. Varje bidrag räknas.\n\n  \n\nSaab är ett ledande försvars\\- och säkerhetsföretag med syfte att hjälpa nationer att skydda sin befolkning och bidra till trygghet för människor och samhällen. Med 28 000 talangfulla medarbetare utvecklar Saab teknik och lösningar för en säkrare och mer hållbar värld.\n\n  \n\nSaab utvecklar, tillverkar och underhåller avancerade system inom flygteknik, vapen, ledningssystem, sensorer och undervattenssystem. Saab har sitt huvudkontor i Sverige men en global verksamhet där Saab är en del av många nationers försvarsförmåga. Läs mer om oss här.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Cognizant",
-      "title": "Technical Business Analyst",
-      "location": "Stockholm, AB, SE",
-      "url": "https://se.indeed.com/viewjob?jk=ea1caae1faf95b1e",
-      "direct_url": "https://careers.cognizant.com/global-en/jobs/00069949491/technical-business-analyst/",
-      "company_url": "https://se.indeed.com/cmp/Cognizant-f7abe767",
-      "date_posted": "2026-09-23",
-      "description": "Stockholm, Sweden\n  \nWhat makes Cognizant a unique place to work? The combination of rapid growth and an international and innovative environment! This is creating a lot of opportunities for people like YOU — people with an entrepreneurial spirit who want to make a difference in this world.\n  \nAt Cognizant, together with your colleagues from all around the world, you will collaborate on creating solutions for the world's leading companies and help them become more flexible, more innovative and successful. And this is your chance to be part of the success story: we are looking for an Informatica Architect to join our team in Sweden.\n  \nAbout the team\n  \nCognizant Sweden boasts a robust team of professionals spread across various cities. Our local team includes experts in AI, data analytics, cloud services, and software development, ensuring we provide top\\-notch, localized support to our clients. The team is led by a seasoned professional, who brings extensive experience in cloud, AI and analytics and building high performing teams. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us Cognizant.\n  \nCognizant collaborates with all major hyperscale’s and relevant software vendors in the data and AI space. This includes partnerships with industry leaders such as AWS, Microsoft, Google, Snowflake, and Databricks. Our comprehensive approach ensures that we leverage the best tools and technologies to deliver scalable, secure, and efficient solutions. Additionally, we are supported locally by our dedicated Centres of Excellence, which operate both nearshore and offshore. These centres provide specialized expertise and resources, ensuring that we can meet the unique needs of our clients and drive innovation in AI and data cost effectively.\n  \nAbout the role\n  \n3\\+ years of hands\\-on experience working with requirements and design to deliver complex data solutions.\n  \nPreferably background from Banking, with understanding of bank data and data delivery in a regulated environment\n  \nVery good communication and presentation skills (both written and oral) with proven ability to collaborate in cross\\-functional teams and drive discussions with architects and engineers to jointly design solutions and solve problems\n  \nHas experience from working with data related topics such as data sourcing, transformation rules, data quality rules, data privacy considerations and data delivery agreements.\n  \nCan take on and independently drive their own subset of activities\n  \nExperience from testing and quality assuring data deliveries\n  \nQuick to grasp new concepts, fast learning curve will be needed\n  \nStructured work approach\n  \nTechnical Proficiencies\n  \n**Languages:** SQL\n  \n**Tools \\& Platforms:** AbInitio metadata hub or other Data Catalogue tool\n  \nExperience from data warehousing or analytics tools is meriting\n  \nWhat you can expect\n  \nBecome part of a ‘flag ship’ success story \\- We go through enormous growth!\n  \nOrganization driven by technology – We have a tremendous technology backbone\n  \nEnvironment where you can make your own ideas reality\n  \nDrive your own career\n  \nMarket conforms benefits",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Cognizant",
-      "title": "Junior Business Analyst MDM",
-      "location": "Stockholm, AB, SE",
-      "url": "https://se.indeed.com/viewjob?jk=2a16579c092a065e",
-      "direct_url": "https://careers.cognizant.com/global-en/jobs/00069401891/junior-business-analyst-mdm/",
-      "company_url": "https://se.indeed.com/cmp/Cognizant-f7abe767",
-      "date_posted": "2026-09-23",
-      "description": "Are you an early\\-career Business Analyst who enjoys turning complex discussions into clear, structured outcomes? Cognizant is looking for a Junior Business Analyst to support the discovery phase of a strategically important Party Master Data Management initiative within financial services. Working alongside senior business, data, architecture, and governance specialists, you will help capture business needs, assess processes, and build the documentation required to shape the future solution.\n  \nWhat you will do\n  \nYou will support workshops and stakeholder discussions by preparing materials and accurately capturing requirements, process flows, issues, decisions, and follow\\-up actions. You will maintain requirements traceability, coordinate reviews with stakeholders and subject\\-matter experts, and help ensure that documentation remains clear, consistent, and up to date.\n  \nYou will also contribute to use\\-case analysis, current\\-process assessments, dependency mapping, prioritisation, and business\\-case inputs. This is a hands\\-on role where you will learn from experienced colleagues while helping the wider team turn business needs into practical and well\\-documented outcomes.\n  \nWhat you bring\n  \nYou have 2–4 years of experience in business analysis, data projects, process improvement, or a related field. Exposure to banking, Master Data Management, customer data, or data governance is an advantage. You are structured, curious, and comfortable working with detailed information, and you communicate clearly with both business and technology stakeholders.\n  \nYou have strong documentation and coordination skills, pay attention to quality, and are willing to ask questions when something is unclear. An interest in developing your skills in enterprise data and financial\\-services transformation will help you succeed. Availability to work on\\-site in Stockholm is required.\n  \nAbout Cognizant\n  \nCognizant is a global technology and professional services company that helps leading organizations modernize technology, reimagine processes, and transform experiences. In Sweden, we combine local market understanding with global expertise across financial services, data, cloud, engineering, and AI to help clients solve complex challenges and create measurable value.\n  \nWhy join us?\n  \nAt Cognizant, you will gain meaningful experience in a large\\-scale data transformation while working with specialists from different disciplines and geographies. You will have opportunities to learn, build your professional network, and grow your career in a collaborative environment where people work as one, take ownership, act with integrity, and challenge themselves to improve.\n  \nThis position offers the chance to develop practical experience in business analysis, banking, data governance, and Party MDM while contributing to work that will directly influence future processes and solutions.\n  \nReady to take the next step?\n  \nIf you are motivated to learn, enjoy creating clarity from complex information, and want to develop your career at the intersection of business and data, we would like to hear from you.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Unknown",
-      "title": "Business Analyst",
-      "location": "Kista, AB, SE",
-      "url": "https://se.indeed.com/viewjob?jk=4fa2a1aa064419fc",
-      "direct_url": "http://se.indeed.com/job/business-analyst-4fa2a1aa064419fc",
-      "company_url": "https://se.indeed.comNone",
-      "date_posted": "2026-09-23",
-      "description": "**TransportRådgivarna AB är ett dotterbolag till TransportRådgiverne A/S i Danmark som blev utsedd till Gasellföretag 2024 och 2025 och vi fortsätter att växa! Därför söker vi ytterligare en Business Analyst med placering i Stockholm. Är du den sifferstarka speditören som vill utvecklas vidare? Är du den strukturerade medarbetaren som genom dataanalys och beräkningsmodeller arbetar med att skapa överblick? Motiveras du av att hitta detaljer i stora datamängder? Har du förmågan att hålla många bollar i luften och att arbeta under tidspress under intensiva perioder? Vill du vara med och vidareutveckla samt påverka Sveriges och Danmarks ledande logistikkonsultföretag? Då är du precis den medarbetare vi söker!**\n\n**Dina huvudsakliga ansvarsområden:**\n\n* Analys och konsekvensberäkningar av inkomna anbudsunderlag\n* Kvalitetskontroll av beräkningar\n* Diverse utvecklingsuppgifter\n* Framtagning av rapporter\n* Fakturakontroll\n* Kommunikation med kunder och samarbetspartners\n* Diverse ad hoc\\-uppgifter\n\n**Om dig:**\n\n* Du är utbildad speditör eller har grundläggande förståelse för transport och lager\n* Du har goda kunskaper i Excel och tycker om att arbeta med siffror\n* Du kan hitta detaljer i stora datamängder som andra missar\n* Du är noggrann och detaljorienterad\n* Du är strukturerad och flexibel\n* Som person har du en positiv inställning och är en god kollega\n\n**Vi erbjuder:**\n\n* En spännande och dynamisk arbetsplats med engagerade och kompetenta medarbetare\n* Attraktiva och intressanta kunder\n* Att vara en del av en aktiv projektavdelning med 12 personer bestående av både analytiker (5\\) och projektledare (7\\)\n* Attraktivt kontor i Kista Science Tower\n* En dynamisk miljö med mycket god intern kunskapsdelning och en informell ton där det är nära till skratt och gemenskap\n* Förtroende – och vi förväntar oss stor självständighet och ansvarstagande tillbaka\n* Flexibilitet i planeringen av arbetsdagen (samt möjlighet att arbeta hemifrån)\n* Ett företag där vi bryr oss om varandra och därför har flera årliga aktiviteter som stärker gemenskapen\n* Lön enligt överenskommelse\n\nAnsökningar tas emot löpande.  \nHar du frågor om tjänsten är du varmt välkommen att kontakta oss.\n\n**Ansökan skickas till:**  \nChristine Pelacchi\n\n*Country Manager Sverige*\n\nEpost: christine@transportradgivarna.se  \nTel. 0723 – 64 10 66\n\nLön: Upp till 60 000,00kr per månad\n\nFörmåner:\n\n* Extra semesterdagar\n* Jobba hemifrån\n* Tjänstepension\n\nArbetsort: Delvis på distans i 164 51 Kista",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "christine@transportradgivarna.se",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
