@@ -1,39 +1,31 @@
 # 🟦 Indeed — Data & Insights Roles
-*Last updated: 2026-09-24 19:30 UTC*
+*Last updated: 2026-09-24 22:44 UTC*
 
-**6 new role(s)** since last run · 8 total in last 24h
+**5 new role(s)** since last run · 11 total in last 24h
 
-### [Data Analyst / Produktledare för dataprodukter konsultuppdrag](https://se.indeed.com/viewjob?jk=7f744a05ccb37aec) — Famma Konsultning AB
-- 📍 **Location:** Stockholm, AB, SE
+### [Business Analyst AI](https://se.indeed.com/viewjob?jk=a7c83c72c02cc368) — Volvo Group
+- 📍 **Location:** Göteborg, O, SE
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-24
+
+### [Business Analyst](https://se.indeed.com/viewjob?jk=872be65a8772096b) — Consid
+- 📍 **Location:** Malmö, M, SE
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [SEB Corporate & Investment Banking Summer Internship 2027: Data analyst within Fixed Income | SEB, Stockholm](https://se.indeed.com/viewjob?jk=cdcab7c3c8d35456) — SEB | Skandinaviska Enskilda Banken
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- **Job type:** internship
-- 🕒 **Posted:** 2026-09-24
-
-### [SEB Corporate & Investment Banking Summer Internship 2027: Quantitative Analyst, Risk Advisory | SEB, Stockholm](https://se.indeed.com/viewjob?jk=4bf4b31b774f204c) — SEB | Skandinaviska Enskilda Banken
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- **Job type:** internship
-- 🕒 **Posted:** 2026-09-24
-
-### [HR Business Analyst – Payroll & HR-system](https://se.indeed.com/viewjob?jk=d610b29b5f0aaa9d) — Infinity IT Consulting
-- 📍 **Location:** Stockholm, AB, SE
+### [IT - Global IT Business Analyst](https://se.indeed.com/viewjob?jk=5c34275d0342bba4) — CCM Hockey
+- 📍 **Location:** SE
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-24
 
-### [SEB Corporate & Investment Banking Summer Internship 2027: Quantitative analyst within Fixed Income | SEB, Stockholm](https://se.indeed.com/viewjob?jk=5d3787efa7c9f998) — SEB | Skandinaviska Enskilda Banken
-- 📍 **Location:** Stockholm, AB, SE
+### [Associate Data Analyst](https://dk.indeed.com/viewjob?jk=cf8dd70a9f2658bf) — SS&C
+- 📍 **Location:** København, D84, DK
 - **Work mode:** On-site
-- **Job type:** internship
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-24
 
-### [SEB Corporate & Investment Banking Summer Internship 2027: Quantitative analyst within Commodities | SEB, Stockholm](https://se.indeed.com/viewjob?jk=684347a8fc303b1e) — SEB | Skandinaviska Enskilda Banken
-- 📍 **Location:** Stockholm, AB, SE
+### [Strategic Business Analyst - SAP FI finance area (28716)](https://dk.indeed.com/viewjob?jk=f2af2471c0aae9f1) — Tryg
+- 📍 **Location:** Ballerup, D84, DK
 - **Work mode:** On-site
-- **Job type:** internship
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** 2026-09-21
