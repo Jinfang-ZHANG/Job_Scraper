@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-25 00:52 UTC",
+  "scraped_at": "2026-09-25 06:36 UTC",
   "total": 12,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Famma Konsultning AB",
@@ -220,24 +220,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "JobBusters AB",
-      "title": "HR Business Analyst",
-      "location": "Södertälje, AB, SE",
-      "url": "https://se.indeed.com/viewjob?jk=b1548dcc36f3e656",
-      "direct_url": "https://www.jobbusters.se/jobs/8450828-hr-business-analyst",
-      "company_url": "https://se.indeed.com/cmp/Jobbusters-Ab",
-      "date_posted": "2026-09-24",
-      "description": "### **Your New Role**\n\n\nWe are looking for an experienced HR Business Analyst to join an ongoing HR system transformation project. In this role, you will help translate business needs and requirements into clear, structured and harmonized HR processes that support both strategic objectives and operational efficiency.\n\n\nYou will work closely with stakeholders across the organization, contributing throughout the transformation journey — from requirements gathering, process mapping and impact analysis to documentation, testing, rollout and stabilization. A key part of the role is ensuring a clear distinction between business requirements, solution design and technical implementation.\n\n\nYou will also support change activities by helping develop new ways of working, user and administrator guides, and processes that enable successful adoption of the new HR solution.\n\n### **Company Presentation**\n\n\nOur client is a large organization with an ongoing HR transformation aimed at developing and harmonizing processes and ways of working across the business. The assignment offers the opportunity to work in a complex, cross\\-functional environment with both local and global stakeholders.\n\n### **Good to Know**\n\n**Scope of employment**: Full\\-time, 100%  \n\n**Type of contract**: Fixed\\-term employment as a consultant via JobBusters  \n\n**Working model**: Hybrid, approximately 3 days/week on\\-site in Södertälje  \n\n**Start date**: 2026\\-10\\-19 or as agreed  \n\n**End date**: Estimated 15\\-month assignment\n\n### **To succeed in this role, you will need:**\n\n* Experience working with business requirements, process development and/or process mapping\n* Understanding of HR / People \\& Culture processes from a business perspective\n* Experience working with HR systems\n* Strong documentation and analytical skills, with the ability to structure complex information clearly\n* Experience with requirements mapping, workflows and impact assessments\n* Ability to collaborate effectively with cross\\-functional and diverse stakeholder groups\n* A structured, proactive and adaptable approach\n* Experience with HR master data, integrations, complex transformation programmes and change activities is considered an advantage.\n\n### **What we Offer**\n\n* Secure employment with a collective bargaining agreement, insurance coverage and occupational pension\n* Wellness allowance and employee discounts and offers via Benifex\n* Flex pension and access to Lifeplan pension advisory service\n* Additional compensation during parental leave\n* Occupational health services\n* Long\\-term assignments and a dedicated Consultant Manager for personal support\n* Opportunities to build valuable experience, expand your network and grow your future career\n\n### **We look forward to receiving your application**\n\n\nWe review applications on an ongoing basis, so we encourage you to apply as soon as possible.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
