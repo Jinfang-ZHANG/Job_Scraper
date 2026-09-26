@@ -1,10 +1,16 @@
 # 🟦 Indeed — Data & Insights Roles
-*Last updated: 2026-09-26 01:59 UTC*
+*Last updated: 2026-09-26 08:00 UTC*
 
-**1 new role(s)** since last run · 5 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [IT Business Intelligence Analyst - BST GI](https://se.indeed.com/viewjob?jk=09d8e210c9c40f46) — Hitachi Rail
-- 📍 **Location:** Ludvika, W, SE
-- **Work mode:** Remote in-state eligible
+### [HR Business Analyst till HR-systemtransformation](https://se.indeed.com/viewjob?jk=6cb01ba500fae736) — NDP IT AB
+- 📍 **Location:** Stockholm, AB, SE
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-23
+- 🕒 **Posted:** 2026-09-25
+
+### [Join Accenture as a Strategy Analyst or a Management Consulting Analyst](https://dk.indeed.com/viewjob?jk=e121be1177eb7cba) — Accenture
+- 📍 **Location:** København, D84, DK
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
