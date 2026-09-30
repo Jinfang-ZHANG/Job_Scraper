@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — Data & Insights Roles
-*Last updated: 2026-09-30 05:48 UTC*
+*Last updated: 2026-09-30 20:14 UTC*
 
 **0 new role(s)** since last run · 0 total in last 1h
 
