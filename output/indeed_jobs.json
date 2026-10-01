@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-30 20:18 UTC",
+  "scraped_at": "2026-10-01 00:10 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Zeppelin Danmark A/S",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Zeppelin Danmark A/S",
-      "title": "D365 FO Consultant/Business Analyst",
-      "location": "Brøndby, D84, DK",
-      "url": "https://dk.indeed.com/viewjob?jk=1822d3f7c3012a1d",
-      "direct_url": "https://zeppelin.wd3.myworkdayjobs.com/careers/job/Brondby/D365-FO-Consultant-Business-Analyst_JR_19130",
-      "company_url": "https://dk.indeed.com/cmp/Zeppelin-Danmark-A-S",
-      "date_posted": "2026-09-30",
-      "description": "Zeppelin Danmark A/S is the Caterpillar dealer for Denmark, Greenland and the Faroe Islands, and part of the international Zeppelin Group. In May 2026 we went live on Microsoft Dynamics 365 Finance \\& Operations (NAXT). The platform is in place – now we need someone who can help our finance organisation get full value from it, fix what isn't working yet, and build processes that last.\n\n **The role**\n\n\nYou will be the finance department's in\\-house D365 F\\&O expert, working closely with the CFO, our Chief Accountants, Controlling and the AP/AR teams, as well as our external implementation partner. Your focus will be to stabilise and optimise core finance processes, including:\n\n* Accounts payable, including invoice automation (ExFlow/OpusCapita) and PO\\-matching workflows\n* Accounts receivable, credit management and collections, including credit limit and order release processes\n* Payments and bank integration (FIK, SEPA Direct Debit, payment files)\n* VAT setup and reporting across divisions, and e\\-invoicing (NemHandel/PEPPOL)\n* Financial dimensions, period close and reconciliation\n* Prioritising and resolving open issues from our hypercare backlog, and acting as the bridge between business users and technical consultants\n* Training and supporting users so the team can work confidently and independently in the system\n\n **Who you are**\n\n* Several years of hands\\-on experience with D365 F\\&O finance module, ideally from both implementation and post\\-go\\-live support\n* Solid understanding of accounting and finance processes – you speak both \"finance\" and \"system\"\n* Experience with Danish requirements (VAT, FIK, NemHandel) is a strong advantage\n* Structured and pragmatic: you can sort a long issue list into what matters most and get it done\n* A clear communicator who can explain root causes and solutions to non\\-technical colleagues\n* Fluent in Danish and English, written and spoken; German is a plus\n\n **What we offer**\n\n* A central role with real impact and direct visibility to the CFO\n* A committed finance team that wants the system to work\n* The stability of an international group, with the pace of a Danish organisation\n* \\[Salary, pension, benefits, flexible working – to be completed]\n\n **Location:** Brøndby  \n\n**Start:** As soon as possible  \n\n**Apply:** Send your CV and a short cover letter via the application form as soon as possible. We review applications continuously. For questions about the role, contact Daniel Green, CFO, at Daniel.Bernard.Green@zeppelin.com, or by phone \\+45 20 28 30 59\\.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "Daniel.Bernard.Green@zeppelin.com",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
