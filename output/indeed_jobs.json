@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-01 20:31 UTC",
+  "scraped_at": "2026-10-02 00:14 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "World Maritime University",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "World Maritime University",
-      "title": "Data Analyst, WMU-LRF Maritime Observatory",
-      "location": "Malmö, M, SE",
-      "url": "https://se.indeed.com/viewjob?jk=8113ea04266857e9",
-      "direct_url": "https://arbetsformedlingen.se/platsbanken/annonser/31539737",
-      "company_url": "https://se.indeed.com/cmp/World-Maritime-University",
-      "date_posted": "2026-10-01",
-      "description": "The World Maritime University (WMU) was founded in 1983 within the framework of the International Maritime Organization (IMO), a specialized agency of the United Nations, as its premier centre of excellence for maritime postgraduate education, research and capability development. The University offers unique postgraduate programmes, conducts wide\\-ranging research in maritime and ocean\\-related studies, and advances maritime capability development in line with the UN Sustainable Development Goals. The WMU–Lloyd's Register Foundation Maritime Observatory is a new strategic initiative established to strengthen the availability, analysis and use of high\\-quality evidence in support of maritime policy and decision\\-making. The Observatory will combine data analytics, evidence synthesis and policy\\-relevant research to generate insights on important and emerging maritime issues.\n  \n  \n\nThe Data Analyst will support the establishment and operation of the WMU\\-LRF Maritime Observatory across the full analytical cycle: identification, acquisition, management, analysis and visualization of maritime data and the development of evidence\\-based knowledge products such as dashboards, models, reports and briefs. The incumbent will report to the Head of Data and Insights (WMU\\-LRF Maritime Observatory) and work closely with other members of the Observatory team to develop its data and analytical capabilities. The position requires a combination of technical data skills, analytical curiosity and an interest in applying data and evidence to maritime policy questions. This is an opportunity to join a strategic initiative, the Observatory, at its founding stage.\n  \n  \n\nThe successful candidate will have an opportunity to contribute directly to the development of its data infrastructure, analytical methods, AI workflows and knowledge products. It is an opportunity to shape how the Observatory works from the outset, and contribute to its work supporting international maritime policy\\-making. WMU offers an attractive remuneration package including a tax\\-free annual net base salary starting at the applicable P1 level (subject to mandatory deductions for pension contributions and health insurance), with a variable post adjustment, dependency benefits, education grant, relocation and repatriation expenses, as applicable under the relevant rules. Candidates will be contacted if they are short\\-listed.\n  \n  \n\nThis vacancy is open to eligible candidates that satisfy the education, experience and language criteria noted above. WMU is committed to creating a diverse and inclusive environment of mutual respect. WMU recruits and employs staff regardless of gender identity, sexual orientation, race, religious, cultural and ethnic backgrounds or disabilities. Application Applicants must apply online through the University’s website",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
