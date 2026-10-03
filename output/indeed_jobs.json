@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-10-03 05:47 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-03 18:50 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Rovio Sweden AB",
-      "title": "Data Analyst Intern",
-      "location": "Stockholm, AB, SE",
-      "url": "https://se.indeed.com/viewjob?jk=e73d90b406b44db0",
-      "direct_url": "https://arbetsformedlingen.se/platsbanken/annonser/31548327",
-      "company_url": "https://se.indeed.com/cmp/Rovio-Sweden-Ab",
-      "date_posted": "2026-10-02",
-      "description": "Data Analyst Intern Are you ready to jumpstart your career in game analytics and help power our user acquisition strategies? We’re looking for a curious Data Analytics Intern to join our team. Working alongside our senior analysts, you'll dive into real-world campaign data, discover key trends, and support performance optimization that helps millions of players to discover the fun of Angry Birds 2. During the internship, you’ll get guidance and mentorship to develop your skills in turning complex data into clear, structured insights.\n  \n  \nYou'll partner closely with UA managers, marketers, product managers, and senior analysts to build and maintain dashboards, improve tracking, and support growth across our marketing channels. You will have impact and fun at work by: Collaborating with UA managers, marketers, and analysts to support everyday data requests and evaluate campaign success. Help building and maintaining user-friendly dashboards and automated reports to track performance across campaigns and creatives. Assist in crafting data pipelines, models, and cleaning scripts with hands-on support from senior team members.\n  \n  \nExploring performance data to uncover helpful trends and highlight fresh creative opportunities. Auditing data quality across platforms to keep our tracking accurate and reliable. Experience and skills we are looking for: Pursuing or recently completed a degree in Data Science, Statistics, Economics, or a related field. Practical knowledge of SQL along with Python or R (using libraries like pandas or numpy) for analyzing data.\n  \n  \nBasic experience creating clear visualizations and dashboards with BI tools. A solid understanding of statistics, with the curiosity to apply these concepts to real business context. Great communication skills to share your data insights with enthusiasm and clarity. Strong problem-solving ability, an eye for detail, and a collaborative mindset.\n  \n  \n**It would be nice if you also have the following skills:** Passion for mobile marketing and an eagerness to learn player acquisition dynamics. Familiarity with predictive modeling concepts.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
