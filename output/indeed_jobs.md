@@ -1,14 +1,22 @@
 # 🟦 Indeed — Data & Insights Roles
-*Last updated: 2026-10-06 02:31 UTC*
+*Last updated: 2026-10-06 09:25 UTC*
 
-**2 new role(s)** since last run · 6 total in last 24h
+**3 new role(s)** since last run · 9 total in last 24h
 
-### [Data Business Analyst](https://se.indeed.com/viewjob?jk=509fff80256f9763) — Rasulson Consulting
-- 📍 **Location:** Mjölby, E, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [IT Business Analyst](https://se.indeed.com/viewjob?jk=89bb5fd389e366da) — Rasulson Consulting
+### [Data Business Analyst](https://se.indeed.com/viewjob?jk=3f272702521102c5) — Rasulson Consulting AB
 - 📍 **Location:** Stockholm, AB, SE
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [IT Business Analyst](https://se.indeed.com/viewjob?jk=3199f4de31205fde) — Rasulson Consulting AB
+- 📍 **Location:** Stockholm, AB, SE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
+
+### [Business Analyst](https://se.indeed.com/viewjob?jk=45465d1aa1353dbd) — PwC
+- 📍 **Location:** Stockholm, AB, SE
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-04
