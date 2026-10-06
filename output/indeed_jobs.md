@@ -1,25 +1,14 @@
 # 🟦 Indeed — Data & Insights Roles
-*Last updated: 2026-10-05 22:11 UTC*
+*Last updated: 2026-10-06 02:31 UTC*
 
-**4 new role(s)** since last run · 4 total in last 24h
+**2 new role(s)** since last run · 6 total in last 24h
 
-### [Data Analyst](https://se.indeed.com/viewjob?jk=0f4f043aa81c1782) — Nordnet
-- 📍 **Location:** Stockholm, AB, SE
+### [Data Business Analyst](https://se.indeed.com/viewjob?jk=509fff80256f9763) — Rasulson Consulting
+- 📍 **Location:** Mjölby, E, SE
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-05
 
-### [Data Analyst](https://se.indeed.com/viewjob?jk=6bdb1a6f5742e33e) — Nordnet Bank AB
-- 📍 **Location:** Stockholm, AB, SE
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Finance Data Analyst](https://se.indeed.com/viewjob?jk=92759d07d4165f4e) — Mediq
-- 📍 **Location:** Kungsbacka, N, SE
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Business Analyst, Telecom Transformation (Mission Critical Communications Hub)](https://se.indeed.com/viewjob?jk=1c236f206137916f) — Capgemini
+### [IT Business Analyst](https://se.indeed.com/viewjob?jk=89bb5fd389e366da) — Rasulson Consulting
 - 📍 **Location:** Stockholm, AB, SE
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-05
