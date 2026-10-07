@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-07 00:09 UTC",
-  "total": 7,
-  "new_count": 0,
+  "scraped_at": "2026-10-07 06:29 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Arket",
@@ -12,42 +12,6 @@
       "company_url": "https://se.indeed.com/cmp/Arket",
       "date_posted": "2026-10-06",
       "description": "**Job Description**\n\nAs a Data Analyst at ARKET, you will play a key role in understanding customer behaviour and digital performance across arket.com. By turning data into actionable insights, you will help teams make better commercial decisions, improve customer experiences and identify new growth opportunities.\n\nIn this role, you will work across analytics, experimentation and digital performance, partnering closely with stakeholders throughout the business.\n\nYou will:\n\n* Analyse customer, commercial and digital performance data to identify trends, opportunities and areas for improvement.\n* Drive insights that support business decisions across Digital CX and Sales, Merchandising and Marketing.\n* Own the expirimentaion road map and drive A/B testing and experimentation initiatives to optimise customer journeys and conversion.\n* Be the voice of the customer by suggesting actions based on NPS/Customer feedback findings\n* Build dashboards, performance reporting and self-service insights that increase data visibility across teams.\n* Ensure high-quality measurement and tracking by partnering with Product and Development teams.\n\nWho you'll work with\n\nYou will be part of ARKET's digital organisation and collaborate closely with colleagues across Digital CX and Sales, Merchandising, Marketing and Product. Working alongside Product Managers, Experience Designers, Developers and Data specialists, you will help shape how data and customer insights drive business decisions and improve the online customer experience.\n\n **Qualifications**\n\nWe are looking for someone who combines strong analytical skills with commercial curiosity and enjoys working in a collaborative, fast-paced environment.\n\nYou have:\n\n* Experience working with web analytics, digital performance analysis or e-commerce analytics.\n* Hands-on experience with Google Analytics 4 (GA4), visual analytics tools and data visualisation tools such as Looker Studio, Power BI or similar.\n* Experience working with SQL and large datasets, preferably including BigQuery.\n* Experience analysing customer behaviour and translating insights into business recommendations.\n* Experience supporting experimentation, A/B testing or conversion optimisation initiatives.\n* Strong communication skills with the ability to present complex findings to both technical and non-technical stakeholders.\n* Professional proficiency in English.\n\nBehaviours based on our values\n\n* Delivery & Execution: Ability to produce high-quality, accurate work, prioritise effectively and meet deadlines. You should also be able to demonstrate resilience under pressure.\n* Problem Solving & Judgment: Ability to analyse issues logically, use data and evidence to guide decisions & anticipate and address issues before they arise.\n* Communication: Able to communicate clearly in writing and verbally, you should be able to explain technical or complex points simply and keep stakeholders informed and updated.\n* Collaboration: Ability to work constructively with other colleagues, share knowledge and support teammates. You should also be openminded and accept feedback professionally.\n* Adaptable & Curious: You should be able to adjust to changing priorities, learns new tools and processes quickly and show curiosity and self-development\n\n  \n**Additional Information**\n\nThis is a full time temporary contract for 12 months based at our Head Office in Stockholm, Södermalm\n\nIf you feel this opportunity is exciting feel free to apply by sending in your CV in English as soon as possible, but no later than 18th October, 2026. Due to data policies, we only accept applications through our career page.\n\nWe value collaboration and believe that great ideas thrive when we work closely together. Therefore, this role is primarily office-based, with four days per week at the office to foster teamwork and engagement. One day per week, you’ll have the flexibility to work remotely.\n\nPlease note this position is offered on a local contract, therefore you should have the legal right to work in Sweden before applying. Other candidates are welcome to register their interest, and we will keep you in mind for future opportunities.\n\nWHO WE ARE\n\nARKET is a modern-day market for everyday life, bringing together clothing, design, food and ideas. With a modern Nordic perspective, shaped by closeness to nature, functionality and a clear sense of seasonality, our ambition is to inspire a simpler, more beautiful way of living. Available to a broad audience worldwide, we offer contemporary products that are made and selected with care, designed to be used, lived with and returned to over time.here.\n\nWHY YOU’LL LOVE WORKING HERE\n\nWe offer all our employees attractive benefits with broad development opportunities. All our employees receive a staff discount usable on all our H&M Group brands in stores and online. In addition to our staff discount, all our employees are included in our H&M Incentive Program – HIP. You can read more about our H&M Incentive Program here.\n\nIn addition to this, Sweden-based colleagues also receive:\n\n* 30 days holiday\n* A collective agreement which includes pension and life insurance\n* Wellness benefit 4000kr/year\n* Benify Benefits Portal\n\nJOIN US\n\nOur uniqueness comes from a combination of many things – our inclusive and collaborative culture, our strong values, and opportunities for growth. But most of all, it’s our people who make us who we are. We are committed to a recruitment process that is fair, equitable, and based on competency. We therefore kindly ask you to not attach a cover letter in your application.\n\nWe look forward to hearing from you",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Rasulson Consulting AB",
-      "title": "Data Business Analyst",
-      "location": "Stockholm, AB, SE",
-      "url": "https://se.indeed.com/viewjob?jk=3f272702521102c5",
-      "direct_url": "https://arbetsformedlingen.se/platsbanken/annonser/31556336",
-      "company_url": "https://se.indeed.com/cmp/Rasulson-Consulting-Ab",
-      "date_posted": "2026-10-06",
-      "description": "Data Business Analyst – Analytics Solution for Product, Installed-Base and Commercial Data About the role Our client is looking for a Data Business Analyst to help build and scale an analytics solution that brings together product, installed-base and commercial data. The role is hands-on and sits between the business and the technical data teams. Responsibilities Turn business rules and use cases into clear data requirements Map required data attributes to their source systems Evaluate how available, complete, accurate and reliable the data is Identify data gaps and coordinate corrections and enrichment together with Business, Product Management, Master Data Management and Analytics/BI Validate data before it is implemented in BI Support sustainable data governance, including ownership, definitions and quality standards Deliver documented requirements, data mappings, gap assessments and prioritized improvement actions Required skills and experience Several years of experience as a Data Business Analyst, Data Analyst or in a comparable role, converting business needs into data requirements Practical experience with data profiling and analysis using tools such as SQL and Excel/Power Query Experience with master data, product data and data quality in PIM/MDM environments Solid understanding of data governance, including ownership, definitions, quality rules and stewardship Strong stakeholder management and coordination skills across business and IT functions Excellent documentation skills and fluency in spoken and written English Meritorious skills Experience with STEP (Stibo Systems) Experience with Snowflake or Databricks Background in the aftermarket or parts and accessories space, such as product compatibility, installed base or spare parts Experience working with BI/Power BI teams, analytics or recommendation models Ability to start at short notice",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Rasulson Consulting AB",
-      "title": "IT Business Analyst",
-      "location": "Stockholm, AB, SE",
-      "url": "https://se.indeed.com/viewjob?jk=3199f4de31205fde",
-      "direct_url": "https://arbetsformedlingen.se/platsbanken/annonser/31556342",
-      "company_url": "https://se.indeed.com/cmp/Rasulson-Consulting-Ab",
-      "date_posted": "2026-10-06",
-      "description": "IT Business Analyst (with temporary Scrum Master responsibilities) About the role Our client is seeking a seasoned IT Business Analyst to support upcoming initiatives and act as the primary bridge between the business and IT. Responsibilities Capture, organize and analyze requirements to make sure they are clear, complete and achievable Convert business needs into practical input that IT teams can act on Describe technical possibilities and constraints in terms business stakeholders can easily follow Facilitate workshops with relevant stakeholders Document current and target states, and identify gaps and opportunities for improvement Suggest solutions that improve business processes and system support Collaborate closely with development teams, project managers, product owners and other stakeholders to ensure solutions fit both business and technical needs Contribute to prioritization, planning, follow-up and stakeholder communication across the delivery process For a limited period, take on the Scrum Master role: foster agile ways of working, clear obstacles for the team, strengthen collaboration and self-organization, and lead sprint planning, daily stand-ups, sprint reviews and retrospectives Required skills and experience Relevant university education or comparable professional experience Demonstrated experience as an IT Business Analyst or in another requirements-focused role Hands-on experience with requirements management, process mapping and workshop facilitation Experience working side by side with software development teams and cross-functional stakeholders Experience as a Scrum Master or in a similar agile facilitation role Fluency in both Swedish and English, spoken and written Meritorious skills Deep understanding of Scrum and agile methods Background in manufacturing, production or shopfloor-related IT environments Knowledge of SAP S/4HANA Experience with the MES layer of the ISA-95 automation pyramid Skill in presenting complex information in a clear, practical way Experience documenting AS-IS and TO-BE states and supporting process improvement Scope: Initially 50%, with the option to increase to 100% during 2028",
       "salary": "",
       "salary_source": "",
       "salary_currency": "",
@@ -73,6 +37,24 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "lydia.cezar@nordiska.com",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Volvo Group",
+      "title": "Industrial Marketing Intern",
+      "location": "Göteborg, O, SE",
+      "url": "https://se.indeed.com/viewjob?jk=7e1dba840c8490ce",
+      "direct_url": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Industrial-Marketing-Intern-417-15/1370719655/?feedId=361555",
+      "company_url": "https://se.indeed.com/cmp/Volvo-Group-15653fc5",
+      "date_posted": "2026-10-06",
+      "description": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match.\n\n**Role Description**\n--------------------\n\nWe are looking for a motivated and curious Marketing Intern to join our Industrial marketing team for four months. This is an exciting opportunity for a student who wants to gain real-world experience in B2B marketing while working with a global brand.\n\nAs an intern, you will support the planning, execution, and analysis of marketing activities that help promote our products and solutions across a variety of industrial sectors. You will work closely with marketing, sales, and product teams and gain exposure to digital marketing, content creation, campaign management, event support, customer insights, and analytics.\n\nThis role is ideal for someone who enjoys both creativity and data-driven decision-making and wants to develop a broad marketing skill set in a fast-paced international environment. While you'll have opportunities to contribute to content, social media, campaigns, and events, you'll also gain valuable experience in the behind-the-scenes activities that drive business results.\n\nWe're looking for someone who is curious, proactive, and hands-on to support everything from campaign execution and reporting to data analysis, planning, and lead management.\n\n**Key Success Factors**\n\n* Strong written communication skills\n* Organized and dependable\n* Analytical mindset\n* Self-starter attitude\n* Comfortable asking questions and learning quickly\n* Collaborative and positive team player\n\n**Qualifications**\n\n* Currently pursuing a Bachelor's or Master's degree in Marketing, Communications, Business Administration, Digital Marketing, Media Studies, or a related field.\n* Strong written and verbal communication skills in English.\n* Proficiency in Microsoft Office, particularly PowerPoint and Excel.\n* Interest in digital marketing, social media, analytics, and content development.\n\n**Timeline**\n\nNo hard timeline, the aim it is to start this fall & winter and complete by the end of May 2027.\n\n**Ready for the next move?**\n----------------------------\n\nAre you excited to bring your skills and disruptive ideas to the table? We can’t wait to hear from you. Apply today!\n\nContact:\n\nMatthew Hartman, Digital Marketing Strategist, matthew.hartman@volvo.com\n\nLast application date: October 27\n\nWe value your data privacy and therefore do not accept applications via mail.\n\n**Who we are and what we believe in**  \nWe are committed to shaping the future landscape of efficient, safe, and sustainable transport solutions. Fulfilling our mission creates countless career opportunities for talents across the group’s leading brands and entities.\n\nApplying to this job offers you the opportunity to join **Volvo Group**. Every day, you will be working with some of the sharpest and most creative brains in our field to be able to leave our society in better shape for the next generation. We are passionate about what we do, and we thrive on teamwork. We are almost 100,000 people united around the world by a culture of care, inclusiveness, and empowerment.\n\n**Volvo Penta**, a world-leading supplier of engines and complete drive systems for marine and industrial applications, you will be part of a global and diverse team of highly skilled professionals who works with passion, trust each other and embraces change to stay ahead. We make our customers win.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "matthew.hartman@volvo.com",
       "ats": "Indeed"
     },
     {
@@ -130,5 +112,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Volvo Group",
+      "title": "Industrial Marketing Intern",
+      "location": "Göteborg, O, SE",
+      "url": "https://se.indeed.com/viewjob?jk=7e1dba840c8490ce",
+      "direct_url": "https://jobs.volvogroup.com/job/G%C3%B6teborg-Industrial-Marketing-Intern-417-15/1370719655/?feedId=361555",
+      "company_url": "https://se.indeed.com/cmp/Volvo-Group-15653fc5",
+      "date_posted": "2026-10-06",
+      "description": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, then we could be a perfect match.\n\n**Role Description**\n--------------------\n\nWe are looking for a motivated and curious Marketing Intern to join our Industrial marketing team for four months. This is an exciting opportunity for a student who wants to gain real-world experience in B2B marketing while working with a global brand.\n\nAs an intern, you will support the planning, execution, and analysis of marketing activities that help promote our products and solutions across a variety of industrial sectors. You will work closely with marketing, sales, and product teams and gain exposure to digital marketing, content creation, campaign management, event support, customer insights, and analytics.\n\nThis role is ideal for someone who enjoys both creativity and data-driven decision-making and wants to develop a broad marketing skill set in a fast-paced international environment. While you'll have opportunities to contribute to content, social media, campaigns, and events, you'll also gain valuable experience in the behind-the-scenes activities that drive business results.\n\nWe're looking for someone who is curious, proactive, and hands-on to support everything from campaign execution and reporting to data analysis, planning, and lead management.\n\n**Key Success Factors**\n\n* Strong written communication skills\n* Organized and dependable\n* Analytical mindset\n* Self-starter attitude\n* Comfortable asking questions and learning quickly\n* Collaborative and positive team player\n\n**Qualifications**\n\n* Currently pursuing a Bachelor's or Master's degree in Marketing, Communications, Business Administration, Digital Marketing, Media Studies, or a related field.\n* Strong written and verbal communication skills in English.\n* Proficiency in Microsoft Office, particularly PowerPoint and Excel.\n* Interest in digital marketing, social media, analytics, and content development.\n\n**Timeline**\n\nNo hard timeline, the aim it is to start this fall & winter and complete by the end of May 2027.\n\n**Ready for the next move?**\n----------------------------\n\nAre you excited to bring your skills and disruptive ideas to the table? We can’t wait to hear from you. Apply today!\n\nContact:\n\nMatthew Hartman, Digital Marketing Strategist, matthew.hartman@volvo.com\n\nLast application date: October 27\n\nWe value your data privacy and therefore do not accept applications via mail.\n\n**Who we are and what we believe in**  \nWe are committed to shaping the future landscape of efficient, safe, and sustainable transport solutions. Fulfilling our mission creates countless career opportunities for talents across the group’s leading brands and entities.\n\nApplying to this job offers you the opportunity to join **Volvo Group**. Every day, you will be working with some of the sharpest and most creative brains in our field to be able to leave our society in better shape for the next generation. We are passionate about what we do, and we thrive on teamwork. We are almost 100,000 people united around the world by a culture of care, inclusiveness, and empowerment.\n\n**Volvo Penta**, a world-leading supplier of engines and complete drive systems for marine and industrial applications, you will be part of a global and diverse team of highly skilled professionals who works with passion, trust each other and embraces change to stay ahead. We make our customers win.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "matthew.hartman@volvo.com",
+      "ats": "Indeed"
+    }
+  ]
 }
