@@ -1,14 +1,10 @@
 # 🟦 Indeed — Data & Insights Roles
-*Last updated: 2026-10-08 21:09 UTC*
+*Last updated: 2026-10-09 01:28 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-### [Gen B Graduate Program – Business & Finance](https://se.indeed.com/viewjob?jk=be81e3d786ce7067) — Boliden
-- 📍 **Location:** Boliden, AC, Sweden
+### [HR Business Analyst](https://se.indeed.com/viewjob?jk=050ad46e38cd3ef9) — LTM Limited
+- 📍 **Location:** Södertälje, AB, Sweden
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-08
-
-### [Business Analyst – People Domain](https://se.indeed.com/viewjob?jk=5d8ea3eb4785597e) — Securitas
-- 📍 **Location:** Stockholm, AB, Sweden
-- **Work mode:** On-site
+- **Job type:** internship
 - 🕒 **Posted:** 2026-10-08
